@@ -1,0 +1,23 @@
+---
+title: "Matté Lopez"
+about:
+  id: intro-heading
+  template: trestles
+  image: images/headshot-lopez-copy.jpeg
+  links:
+    - icon: linkedin
+      href: https://www.linkedin.com/in/matté-lopez-2ab205181
+
+---
+
+:::{#intro-heading}
+
+Hi! My name is Matté and I am a senior at Mac. 
+
+## Education
+
+Macalester College | St. Paul MN <br>
+B.A. in International Studies | Data Science & French Minors | Sept 2021 - May 2025
+
+:::
+
